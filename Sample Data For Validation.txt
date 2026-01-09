@@ -1,0 +1,74 @@
+High-Risk Phishing URL:
+http://secure-paypal-verification-login.tk/account/verify?session=982734
+
+Medium-Risk Suspicious URL: 
+https://amazon-support-update.xyz/help/security-check
+
+Legitimate URL: 
+https://www.microsoft.com/security
+
+
+High-Risk Phishing Email:
+Dear Valued Customer,
+
+We have detected unusual activity on your account.
+Your account will be suspended within 24 hours unless you verify your information immediately.
+
+Click here to confirm your account now:
+http://secure-paypal-verification-login.tk
+
+Failure to act will result in permanent account closure.
+
+Security Team
+
+Medium-Risk Suspicious Email:
+Hello,
+
+We noticed a login attempt from a new device.
+Please review your recent activity and confirm if this was you.
+
+If not, take action today to secure your account.
+
+Thank you,
+Support Team
+
+Low-Risk Legitimate Email:
+Hi Manoj,
+
+Your monthly account statement is now available.
+You can view it by logging into your account as usual.
+
+If you have any questions, contact us through the official support portal.
+
+Best regards,
+Customer Support
+
+High-Risk Phishing Website Content:
+PayPal Security Alert
+
+We detected suspicious activity on your PayPal account.
+Your account access is temporarily limited.
+
+Please enter your email and password below to restore access.
+
+Failure to verify will result in account suspension.
+
+[ Login Form ]
+
+Medium-Risk Suspicious Website Content:
+Account Security Notice
+
+We recently updated our security systems.
+Some users may be required to re-confirm account information.
+
+Please review your details carefully.
+
+Thank you.
+
+Low-Risk Legitimate Website Content:
+Welcome to Microsoft Security Center
+
+Learn how to protect your account with multi-factor authentication,
+security alerts, and device monitoring.
+
+No personal information is requested on this page.
